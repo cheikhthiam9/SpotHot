@@ -6,6 +6,9 @@ This product is a mobile application that will allow users to post, comment, and
 The purpose of our product is to give our customers a go to location on browsing what cities have to offer. Users will be able to browse popular locations within cities, finding restaurant, landmark, gallery, hiking trail, gym or any location that interests them and be able to get an in-depth view of the location without actually being there. We expect our product to be
 used when a user is considering moving, traveling, or looking for new locations to go to.
 
+More Details:
+https://blog.uta.edu/cseseniordesign/2020/12/09/spothot/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

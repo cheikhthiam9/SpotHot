@@ -1,6 +1,10 @@
 # spot_hot
 
-A new Flutter application.
+
+This product is a mobile application that will allow users to post, comment, and rate places for a specific city, which will allow users to better decide on where their next destination will be. Our mobile app will have an emphasis on a social media type of feeling to entice users to use the application regularly.
+
+The purpose of our product is to give our customers a go to location on browsing what cities have to offer. Users will be able to browse popular locations within cities, finding restaurant, landmark, gallery, hiking trail, gym or any location that interests them and be able to get an in-depth view of the location without actually being there. We expect our product to be
+used when a user is considering moving, traveling, or looking for new locations to go to.
 
 ## Getting Started
 
